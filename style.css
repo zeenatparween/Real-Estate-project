@@ -297,11 +297,12 @@
    margin-bottom: 5rem;
    display: flex;
    flex-direction: row;
-    row-gap: 4rem;
+    column-gap: 4rem;
    
 }
 .unique-left{
     width:30rem;
+    margin:auto;
     display: flex;
     /* align-items: center; */
     justify-content:left;
@@ -331,7 +332,7 @@
 
 } 
 .unique-right{
-    width:100rem;
+    width:80rem;
     height:19rem;
     border-radius: 2rem;
     background-color:rgb(88, 88, 233);
