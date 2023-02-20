@@ -332,11 +332,11 @@
 
 } 
 .unique-right{
-    width:80rem;
+    width:60rem;
     height:19rem;
     border-radius: 2rem;
     background-color:rgb(88, 88, 233);
-    margin-right:-1rem; 
+    margin-right:-3rem; 
 } 
   .unique-right img{
     width:17rem;
