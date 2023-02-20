@@ -77,7 +77,9 @@
 
 .horizontal-divider-contact{
     width: 50rem;
-     margin: 0rem 0rem 0rem 4rem; 
+     margin: auto;
+    align-items:center;
+    justify-content:center;
     height: 0.1rem;
     color: #fff;
     background-color: #fff;
