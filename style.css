@@ -236,8 +236,8 @@
    column-gap:5rem;
 }
 .modern-left{
-    width:25rem;
-    height:16rem;
+    width:50rem;
+    height:18rem;
     border-radius: 2rem;
    
     background-color:rgb(88, 88, 233);
@@ -293,6 +293,8 @@
 .unique-container{
     margin: 0px;
    padding: 0px;
+    align-items:center;
+    justify-content:center;
    margin-top:10rem;
    margin-bottom: 5rem;
    display: flex;
@@ -302,7 +304,7 @@
 }
 .unique-left{
     width:30rem;
-    margin:auto;
+    margin-left:3rem;
     display: flex;
     /* align-items: center; */
     justify-content:left;
